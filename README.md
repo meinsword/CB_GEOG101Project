@@ -1,6 +1,7 @@
-# Jamaica, Queens: Is the Southside Gentrifying?
-## Alternate Title: Ethnic Replacement? Jamaica, Queens
+# Ethnic Replacement: Is the Southside Gentrifying?
 ### By Cassie Borra
+
+(note: due to file size limits, census data is not included in this repo. All other data used is included, including capital planning data. For census block data and demographic change data, see NYCDCP's datasets [here](https://www.nyc.gov/content/planning/pages/resources#datasets)
 
 Introduction
 
