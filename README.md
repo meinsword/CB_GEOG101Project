@@ -1,7 +1,7 @@
 # Ethnic Replacement: Is the Southside Gentrifying?
 ### By Cassie Borra
 
-(note: due to file size limits, census data is not included in this repo. All other data used is included, including capital planning data. For census block data and demographic change data, see NYCDCP's datasets [here](https://www.nyc.gov/content/planning/pages/resources#datasets)
+(note: due to file size limits, census data is not included in this repo. All other data used is included, including capital planning data. For census block data and demographic change data, see NYCDCP's datasets [here](https://www.nyc.gov/content/planning/pages/resources#datasets))
 
 Introduction
 
@@ -18,5 +18,7 @@ Do new buildings = population growth? How much?
 Results
 
 StoryMap: https://storymaps.arcgis.com/stories/395e5e814f6245958cd5232c84238082
+
 Slide Deck: https://docs.google.com/presentation/d/1DNP3q4SB53DZg2EcJ8ECEN0cfFszuOqybyvTSnMxW1Q/edit?usp=sharing
+
 Project Scope: https://docs.google.com/document/d/1jamSHcu71BGYUGObBxJdmDPvJJDi0DWv/edit?usp=sharing&ouid=112140454511587148627&rtpof=true&sd=true
